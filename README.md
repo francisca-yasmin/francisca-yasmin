@@ -99,15 +99,6 @@ Me chamo Francisca Yasmim, tenho 19 anos e sou natural do Ceará. Conclui o ensi
 
 <img 
     align="left" 
-    alt="github"
-    title="github" 
-    width="40px" 
-    style="padding: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="java"
     title="java" 
     width="40px" 
