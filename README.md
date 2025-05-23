@@ -6,7 +6,7 @@ Me chamo Francisca Yasmim, tenho 19 anos e sou natural do Ceará. Conclui o ensi
 
 ----
 
-### Tecnologias
+### Tecnologias 👩‍💻
 <img 
     align="left" 
     alt="HTML"
