@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Francisca Yasmim, tenho 19 anos e sou natural do Ceará. Conclui o ensino médio no IFSP no curso técnico de Informática. Atualmente estou cursando Sistemas de Informação no Unasp e Análise e Desenvolvimento de Sistemas no Senai.
+Me chamo Francisca Yasmim, tenho 20 anos e sou natural do Ceará. Conclui o ensino médio no IFSP no curso técnico de Informática. Atualmente estou cursando Sistemas de Informação no Unasp e Análise e Desenvolvimento de Sistemas no Senai.
 
 ----
 
